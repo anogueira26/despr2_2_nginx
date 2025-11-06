@@ -6,10 +6,10 @@ sitio web estático sencillo con navegación entre páginas, imágenes y estilos
 # Pasos seguidos para la instalación y despliegue. 
 
 Actualizar paquete de la maquina web
-![updatemachine](/despr2_2_nginx/img/update.png)
+![updatemachine](/img/update.png)
 
 Instalar nginx
-![installnginx](/despr2_2_nginx/img/installnginx.png)
+![installnginx](/img/installnginx.png)
 
 # Capturas de pantalla del proceso: configuración, comprobaciones, estructura de archivos, página cargada y navegación.
 
